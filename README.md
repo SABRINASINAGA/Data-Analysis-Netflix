@@ -1,3 +1,3 @@
 # Data-Analysis-Netflix
 
-source file from kaggle
+data source from kaggle
